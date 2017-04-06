@@ -4,7 +4,6 @@ import { Provider } from 'react-redux';
 import store from './store';
 import router from './router';
 
-import 'leaflet/dist/leaflet.css';
 import 'font-awesome/css/font-awesome.min.css';
 import './index.css';
 

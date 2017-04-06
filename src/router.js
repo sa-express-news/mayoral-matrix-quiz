@@ -1,14 +1,14 @@
 import React from 'react';
-import { Router, Route, browserHistory } from 'react-router';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 // components
 import App from './components/App/App';
 import Quiz from './components/Quiz/Quiz';
 
 export default (
-  <Router history={browserHistory}>
-    <Route component={App}>
-      <Route component={Quiz} path="/"></Route>
-    </Route>
-  </Router>
+  <BrowserRouter>
+    <App>
+        <Route exact={true} component={Quiz} path="/"></Route>
+    </App>
+  </BrowserRouter>
 );

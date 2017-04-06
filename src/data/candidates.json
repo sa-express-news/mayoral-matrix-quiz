@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Candidate One",
+        "answers": ["A","A","C","C","B"],
+        "blurb": "Here is some information about the candidat that best fits you"
+    },
+    {
+        "id": 2,
+        "name": "Candidate Two",
+        "answers": ["B","A","B","C","D"],
+        "blurb": "Here is some information about the candidat that best fits you"
+    },
+    {
+        "id": 3,
+        "name": "Candidate Three",
+        "answers": ["D","A","B","D","A"],
+        "blurb": "Here is some information about the candidat that best fits you"
+    },
+    {
+        "id": 4,
+        "name": "Candidate Four",
+        "answers": ["D","C","B","A","A"],
+        "blurb": "Here is some information about the candidat that best fits you"
+    },
+    {
+        "id": 5,
+        "name": "Candidate Five",
+        "answers": ["A","B","D","A","B"],
+        "blurb": "Here is some information about the candidat that best fits you"
+    },
+    {
+        "id": 6,
+        "name": "Candidate Six",
+        "answers": ["C","B","B","D","C"],
+        "blurb": "Here is some information about the candidat that best fits you"
+    }
+]
